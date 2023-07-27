@@ -21,7 +21,7 @@ We got our preliminary dataset (result.csv) which already had data on repositori
 
 ## Methodology 1
 
-The research was broken into two methodology to achieve result, see the folder methodology 2
+The research was broken into two methodology to achieve result, see the folder methodology 1
 
 ## Methodology 2
 The research was broken into two methodology to achieve result, see the folder methodology 2

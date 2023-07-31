@@ -1,0 +1,4577 @@
+,Count
+feature,1207
+enhancement,313
+bug,283
+help wanted,254
+question,193
+good first issue,172
+documentation,143
+wontfix,123
+duplicate,116
+discussion,87
+performance,69
+stale,50
+in progress,50
+improvement,46
+windows,43
+docs,43
+core,42
+refactor,42
+security,38
+ui,37
+invalid,34
+hacktoberfest,32
+build,32
+tests,27
+blocked,25
+high priority,24
+refactoring,24
+api,23
+design,23
+low priority,22
+easy,22
+test,21
+breaking change,21
+epic,21
+cleanup,20
+wip,20
+dependencies,19
+fixed,19
+p2,19
+idea,18
+task,18
+won't fix,18
+todo,18
+optimization,17
+p1,17
+linux,17
+proposal,17
+ux,17
+testing,16
+backlog,16
+python,16
+macos,16
+android,16
+packaging,15
+ios,15
+usability,14
+cli,14
+support,13
+research,13
+discuss,13
+up-for-grabs,13
+good-first-issue,13
+important,13
+in-progress,13
+help-wanted,12
+priority,12
+feature request,12
+on hold,12
+priority: high,12
+work in progress,12
+up for grabs,12
+tools,11
+backend,11
+frontend,11
+configuration,11
+breaking,11
+ci,11
+doc,10
+plugin,10
+done,10
+bugfix,10
+p3,10
+server,10
+roadmap,9
+rejected,9
+meta,9
+plugins,9
+logging,9
+low,9
+infrastructure,9
+triaged,9
+javascript,9
+resolved,9
+ready,9
+needs investigation,9
+rfc,9
+accepted,8
+request,8
+needs discussion,8
+p4,8
+docker,8
+feedback,8
+java,8
+medium,8
+priority: low,8
+osx,7
+triage,7
+pending,7
+gui,7
+breaking-change,7
+ready for review,7
+minor,7
+suggestion,7
+i18n,7
+community,7
+major,7
+api change,7
+high,7
+investigating,6
+config,6
+rendering,6
+client,6
+editor,6
+confirmed,6
+codeheat,6
+example,6
+postponed,6
+hacktoberfest-accepted,6
+gsoc,6
+priority:low,6
+next release,6
+metrics,6
+priority: medium,6
+high-priority,6
+database,6
+fix,6
+needs review,6
+needs more info,6
+needs-discussion,6
+upstream,6
+needs info,6
+installation,6
+investigate,6
+deprecation,5
+engine,5
+awaiting response,5
+regression,5
+graphics,5
+framework,5
+low hanging fruit,5
+scripting,5
+legacy,5
+wont-fix,5
+deployment,5
+maintenance,5
+future,5
+out of scope,5
+os: windows,5
+mac,5
+crypto,5
+priority:high,5
+approved,5
+portability,5
+waiting for feedback,5
+extension,5
+do not merge,5
+kernel,5
+code quality,5
+has-pr,5
+settings,5
+protocol,5
+needinfo,5
+perf,5
+status: in progress,5
+audio,5
+platform: android,5
+ui/ux,5
+network,5
+networking,5
+experimental,5
+needs tests,5
+website,5
+outdated,5
+platform,4
+v2.x,4
+contribution,4
+beginner,4
+review,4
+not a bug,4
+do-not-merge,4
+needs patch,4
+integration,4
+external,4
+parser,4
+typing,4
+metadata,4
+contributions welcome,4
+release blocker,4
+accessibility,4
+platform: ios,4
+web,4
+agent,4
+incompatible,4
+deferred,4
+release,4
+compatibility,4
+blocker,4
+build system,4
+search,4
+highlight,4
+console,4
+codegen,4
+privacy,4
+python3,4
+assigned,4
+implemented,4
+desktop,4
+pinned,4
+nice to have,4
+help,4
+work-in-progress,4
+more information needed,4
+feedback wanted,4
+2.0,4
+examples,4
+dependency,4
+gameplay,4
+hard,4
+cancelled,4
+critical,3
+1.16,3
+verified,3
+shell,3
+urgent,3
+size/xs,3
+setup,3
+aws,3
+php,3
+consensus,3
+solved,3
+1.15,3
+investigation,3
+css,3
+compilation,3
+size/xl,3
+gpu,3
+internal,3
+extensions,3
+ci/cd,3
+changelog,3
+awaiting feedback,3
+profiling,3
+cpu,3
+asyncio,3
+medium priority,3
+x11,3
+1.18,3
+priority low,3
+s3,3
+widgets,3
+wishlist,3
+interface,3
+spec,3
+needs rebase,3
+onnx,3
+p5,3
+backup,3
+rules,3
+crash,3
+http,3
+c++,3
+translations,3
+size/m,3
+size/l,3
+needs triage,3
+maybe,3
+status: blocked,3
+⚠️ do not merge,3
+answered,3
+premium,3
+db,3
+remote,3
+hackathon,3
+skip-changelog,3
+ubuntu,3
+app,3
+help needed,3
+expressions,3
+icebox,3
+rust,3
+backwards incompatible,3
+defect,3
+patch,3
+l10n,3
+marketing,3
+tested,3
+ready-for-review,3
+q&a,3
+kotlin,3
+low-hanging fruit,3
+arm,3
+code cleanup,3
+need more info,3
+devops,3
+archived,3
+development,3
+runtime,3
+ruby,3
+cmake,3
+needs testing,3
+go,3
+effort-xs,3
+reviewed,3
+p0,3
+resolved: completed,3
+annotations,3
+driver,3
+gateway,3
+qt,3
+localization,3
+mobile,3
+sql,3
+observability,2
+size m,2
+discussion needed,2
+sumo,2
+needs strings,2
+chore,2
+easy pickings,2
+nonstandard platforms,2
+waiting-feedback,2
+kafka,2
+parent-issue,2
+platform:lattice-ecp5,2
+home,2
+hook,2
+platform:all,2
+imported,2
+code style,2
+onboarding,2
+offline,2
+new,2
+category: samples,2
+unit testing,2
+sprintable,2
+python 3,2
+1,2
+op,2
+events,2
+waiting for review,2
+containers,2
+evaluation,2
+don't merge,2
+2,2
+project,2
+under review,2
+3,2
+needed: documentation,2
+layout,2
+animated image,2
+keyboard,2
+needs implementation,2
+won't-fix,2
+size l,2
+status: stale,2
+infra,2
+scanning,2
+beginner friendly,2
+housekeeping,2
+pr welcome,2
+transform,2
+repl,2
+easy fix,2
+platform: browser,2
+needs design,2
+websocket,2
+v7.8.1,2
+story,2
+storage,2
+size: 3,2
+size: 2,2
+schema,2
+working,2
+n,2
+will not fix,2
+v7.8.0,2
+planned,2
+validation,2
+priority-low,2
+wont fix,2
+feature_request,2
+needs-decision,2
+priority-high,2
+m,2
+upstream-bug,2
+needs research,2
+ideal-for-contribution,2
+unconfirmed,2
+pr-merged,2
+size s,2
+on-hold,2
+github_actions,2
+reports,2
+migration,2
+ai,2
+styling,2
+markdown,2
+buildsystem,2
+someday-maybe,2
+effort-sm,2
+bug fix,2
+advanced,2
+sample,2
+v3,2
+need feedback,2
+wayland,2
+arch,2
+formatting,2
+routing,2
+diagnostics,2
+automerge,2
+pro,2
+swap,2
+not-ready,2
+bip 44/49,2
+compiler,2
+needs-testing,2
+bitesize,2
+priority:normal,2
+delayed,2
+not reproduced,2
+incomplete,2
+waiting-for-feedback,2
+platform-windows,2
+languages,2
+maintainability,2
+nuget,2
+resolved: closed,2
+wallet-connect,2
+0 - backlog,2
+utils,2
+needs response,2
+help appreciated,2
+cache,2
+priority:3,2
+v1.x,2
+priority:2,2
+tooling,2
+resolved: won't fix,2
+calendar,2
+test suite,2
+auth,2
+engineering,2
+needs-investigation,2
+debugging,2
+next-release,2
+distributed,2
+nice-to-have,2
+need more information,2
+loader,2
+wpf,2
+nn,2
+more info needed,2
+confirmed-bug,2
+complex,2
+needs-review,2
+need-more-info,2
+must-have,2
+no-recent-activity,2
+not-fixed,2
+platform-android,2
+platform-ios,2
+in development,2
+extensibility,2
+auto-migrated,2
+markets,2
+transactions-tab,2
+addressed,2
+gradle,2
+algorithm,2
+low-priority,2
+large,2
+prs welcome,2
+kubernetes,2
+session,2
+high effort,2
+reactor,2
+status: accepted,2
+sftp,2
+googlestorage,2
+hold,2
+bounty,2
+installer,2
+os: linux,2
+v7.11.0,2
+daemon,2
+3rd party,2
+complexity:high,2
+unclear,2
+jasmine,2
+default browser request,2
+ur,2
+harlequin,2
+code,2
+strings-approved,2
+authentication,2
+undecided,2
+manager,2
+in review,2
+area/client,2
+awaiting review,2
+query,2
+libraries,2
+sync,2
+priority: 2,2
+cpimp,2
+nft,2
+effort-xl,2
+wallet,2
+severity-medium,2
+distribution,2
+postgresql,2
+effort-lg,2
+later,2
+needs-design,2
+help wanted!,2
+theming,2
+ready to review,2
+needs backporting,2
+effort-md,2
+jira-sync-complete,2
+op-ex,2
+platform parity,2
+ui-ux-gui,2
+size/s,2
+size/xxl,2
+unit-tests,2
+should have,2
+priority: 3,2
+status: invalid,2
+priority: 1,2
+pagebuilder,2
+ops,2
+usage question,2
+misc,2
+v1,2
+pr-rejected,2
+pr-available,2
+jira,2
+p2p,2
+ready-to-merge,2
+gradle-plugin,2
+other,2
+needs changelog/docs,2
+command,2
+waiting on feedback,2
+feature: backup,2
+sdl2,2
+undo,2
+1.12,2
+generator,2
+1.14,2
+col_types,2
+processing,2
+structure,2
+unix,2
+waiting,2
+next,2
+pr,2
+scheduling,2
+needs documentation,2
+ready to merge,2
+big,2
+awesome,2
+upgrade,2
+v7.0.0,2
+debug,2
+verify,2
+not an issue,2
+difficulty: medium,2
+priority/low,2
+invoice,2
+catalog,2
+usage,2
+oracle,2
+investigation needed,2
+mvp,2
+elasticsearch,2
+no-issue-activity,2
+dns,2
+not ready for merge,2
+user interface,2
+proxy,2
+spring,2
+parity,2
+rasters,2
+logic,2
+2.1,2
+non-code,2
+semver-major,2
+input,2
+backport,2
+base,2
+has pr,2
+motion,2
+tablet,2
+cla: yes,2
+lts,2
+3.0,2
+changes requested,2
+cluster,2
+quick win,2
+needs confirmation,2
+v2,2
+ecosystem,2
+platform:linux,2
+platform:windows,2
+v4,2
+poc,2
+tx,2
+enterprise,2
+techdebt,2
+win,2
+native,2
+design review,2
+freebsd,2
+severity-low,2
+compile,2
+ease of use,2
+v6.7.0,2
+v6.3.0,2
+r&d,2
+v6.1.0,2
+to do,2
+release notes,2
+annotation,2
+data,2
+someday,2
+tests needed,2
+v6.2.0,2
+v6.0.0,2
+command-line,2
+v5.2.0,2
+contrib,2
+starter,2
+v5.0.0-beta1,2
+1.19,2
+run(),2
+ssh_config,2
+v5.6.0,2
+dataset,2
+a11y,2
+clipboard,2
+style,2
+gtk,2
+emoji,2
+thinking,2
+abandoned,2
+new command,2
+decision needed,2
+v6.4.0,2
+hibernate,2
+demo,2
+evergreen,2
+v6.5.0,2
+modules,2
+reproduced,2
+needs update,2
+account,2
+cuda,2
+planning,2
+app-ui,1
+preview,1
+time-2,1
+pkg::isosurfacing_3,1
+time-1,1
+app-audio,1
+time-13,1
+tilemap,1
+persistence,1
+time-5,1
+dithering,1
+accepted feature,1
+todo (web),1
+java interop,1
+future release,1
+sprite editor,1
+timeline,1
+pkg::alpha_wrap_3,1
+merged_in_5.5-beta1,1
+input needed,1
+time-8,1
+e4x,1
+platform-specific: windows,1
+test262 harness,1
+debugging javascript,1
+embedding rhino,1
+gsoc-2022,1
+ecma incompatibility,1
+scriptable,1
+workspace,1
+medium complexity,1
+userdata,1
+high complexity,1
+critical priority,1
+time-34,1
+slices,1
+selection & cursor,1
+emulation-ppu,1
+emulation-superfx,1
+not yet approved,1
+commonjs,1
+app-display,1
+render,1
+app-input,1
+tests failing,1
+intl402,1
+steam,1
+composition,1
+unresolved,1
+closed: duplicate,1
+colorbar,1
+time-89,1
+emulation-msu1,1
+vector,1
+time-21,1
+app-config,1
+time-3,1
+hackrf,1
+app-netplay,1
+low complexity,1
+refactor complexity,1
+authentication/keys,1
+compiler: msvc,1
+platform-specific: linux,1
+syscall,1
+fun,1
+linuxarm,1
+section-3d,1
+section-video,1
+proposed-solution,1
+oneapi,1
+section-2d,1
+addon,1
+development-strategy,1
+mods,1
+xcode,1
+system: combat,1
+resolution: wontfix,1
+zzz-subviews,1
+resolution: invalid,1
+system: audio,1
+system: movies,1
+system: scripting,1
+system: effects,1
+game: ees,1
+system: projectiles,1
+game: iwd1,1
+game: pst,1
+game: bg1,1
+af_unix,1
+libfrr,1
+vrrp,1
+pay-plugin,1
+valgrind,1
+libtriton,1
+disconnect,1
+isa semantics,1
+forwarding,1
+testnet,1
+state::blocked,1
+third-party,1
+tor,1
+litecoin,1
+v1.1,1
+spruned,1
+bfd,1
+bgp,1
+master,1
+api-change,1
+pim,1
+opencl,1
+pimv6,1
+ospfv3,1
+isis,1
+yang,1
+ospf,1
+rpki,1
+game: demo,1
+msys2,1
+game: bg2,1
+pyoptking-needed,1
+info,1
+occ,1
+closed: works as intended,1
+action-items-needed,1
+strategy-needed,1
+sapt,1
+theory,1
+libint2,1
+optking,1
+compiler: intel,1
+os: macos,1
+mugworthy,1
+nice,1
+requires research,1
+performance :rocket:,1
+colspec 📁,1
+readr 📖,1
+datetime 📆,1
+tidy-dev-day :nerd_face:,1
+good first issue :heart:,1
+closed: won't fix/implement/merge,1
+compiler: clang,1
+compiler: clang-cl,1
+contribution welcome,1
+coding-needed,1
+scf,1
+system: core,1
+project-generator,1
+research needed,1
+system: gui,1
+prelim-analysis,1
+section-internals,1
+system: animations,1
+visual studio,1
+section-sound,1
+section-hardware,1
+game: iwd2,1
+codeblocks ,1
+section-typography,1
+janitorial,1
+external-interface,1
+automation,1
+apothecary,1
+code-review,1
+libwebrtc,1
+meson,1
+fuzzer,1
+developer activities,1
+dft,1
+cc,1
+parallelism,1
+libmints,1
+usrp,1
+system: macos,1
+merged_in_5.5,1
+mempool,1
+policy-decision,1
+library dependency,1
+developer,1
+stage,1
+0.3.x,1
+rpc/rest/zmq,1
+brainstorming,1
+tx fees and policy,1
+questions and help,1
+utils/log/libs,1
+waiting for author,1
+asio transport,1
+change,1
+support request,1
+resource usage,1
+linux/unix,1
+os x,1
+scripts and tools,1
+block storage,1
+good first review,1
+review club,1
+data corruption,1
+descriptors,1
+reliable byte stream,1
+easy-fix,1
+matlab,1
+rtlsdr,1
+hcl-adaptivecards-mobile,1
+platform-javascript,1
+product-ac,1
+design discussion - needed,1
+partner-doist,1
+0.10.2,1
+area-inputs,1
+partner-ciscowebex,1
+area-inconsistency,1
+11.0,1
+a11ysev1,1
+hcl-adaptivecards-android,1
+area-schema,1
+12.0,1
+area-tooling,1
+platform-reactnative,1
+11.1,1
+unshipped feature,1
+area-globalization&localization,1
+resolution-duplicate,1
+platform-shared model,1
+11.2,1
+platform-.net,1
+quick-review,1
+wrapper,1
+needs conceptual review,1
+utxo db and indexes,1
+mining,1
+serving,1
+ir,1
+area-msix,1
+graph,1
+need-all-tests-even-fail,1
+primitive,1
+eager,1
+system,1
+global,1
+good for pr,1
+bottleneck,1
+purge,1
+xla,1
+terminal emulation,1
+quantization,1
+self-hosted,1
+autoparallel,1
+need-check-error-message,1
+need-clean-ccache,1
+need-test-distributed,1
+embedding,1
+need-highest-priority,1
+need-test-verbose,1
+area-msix ado,1
+fmt-only,1
+tray,1
+area-msix core,1
+area-msix sdk,1
+font,1
+ci failed,1
+webrtc,1
+ffmpeg,1
+srt,1
+hls,1
+gb28181,1
+dvr,1
+duplicated,1
+forward,1
+low effort,1
+low impact,1
+medium effort,1
+high impact,1
+must have eventually,1
+smt,1
+language design :rage4:,1
+medium impact,1
+closed due inactivity,1
+protocol design :crystal_ball:,1
+selected for development,1
+area-msix utils,1
+performance :racehorse:,1
+area-external,1
+partner-msftteamsmobile,1
+0.10.1,1
+0.10.0,1
+merged_in_4.14,1
+pkg::optimal_bounding_box,1
+cleaning,1
+cgal i/o,1
+system: windows,1
+pkg::solver_interface,1
+merged_in_5.0,1
+pkg::shape_detection,1
+mod metadata,1
+close:duplicate,1
+pkg::heat_method_3,1
+await reply,1
+language request,1
+module/bvar,1
+c/c++,1
+merged_in_4.13.2,1
+rm only: release blocker,1
+pkg::hyperbolic_triangulation_2,1
+pkg::periodic_4_hyperbolic_triangulation_2,1
+pkg::mesh_3,1
+official,1
+module/extensions/naming-service,1
+pkg::periodic_3_mesh_3,1
+kind/compile,1
+module/extensions/protocol,1
+pkg::triangulation_on_sphere_2,1
+known false-positive in ci checks,1
+merged_in_5.1,1
+pkg::tetrahedral_remeshing,1
+gsoc-2019,1
+pkg::shape_regularization,1
+merged_in_5.4-beta1,1
+soapysdr,1
+merged_in_5.4,1
+airspy,1
+pkg::weights,1
+pkg::arrangement_on_surface_2,1
+bladerf,1
+pkg::periodic_3_triangulation_3,1
+fcdpp,1
+pkg::periodic_2_triangulation_2,1
+fcd,1
+plutosdr,1
+changes.md not updated,1
+bountysource,1
+gsoc-2020,1
+merged_in_5.3-beta1,1
+close:wai,1
+merged_in_5.3,1
+aarch64,1
+has-code,1
+close:declined,1
+merged_in_4.13,1
+pkg::classification,1
+partner-msftteams,1
+test ros,1
+mimalloc,1
+server session,1
+origin session,1
+commands,1
+proxy protocol,1
+cpp api,1
+open discussion,1
+autest,1
+dismissed,1
+yaml,1
+test distribution,1
+test sources,1
+pkg::triangulation_d,1
+platform-xaml,1
+area-renderers,1
+area-accessibility,1
+a11ysev2,1
+a11ywcag,1
+hcl-e+d,1
+hcl-adaptivecards-wpf,1
+dev-branch,1
+hcl-adaptivecards-universal,1
+protocol-change,1
+area-designer,1
+tcp,1
+tls,1
+rework,1
+parent proxy,1
+small feature,1
+accepted small feature,1
+apktool,1
+pkg::surface_mesh_parametrization,1
+apk signing,1
+pkg::point_set_3,1
+pkg::combinatorial_map,1
+android explorer,1
+1.6.x,1
+mt32emu windows driver,1
+pkg::linear_cell_complex,1
+pkg:boolean_set_operations_2,1
+tyr,1
+meili,1
+mt32emu-smf2wav,1
+ssl,1
+lua,1
+libmt32emu,1
+hostdb,1
+http/2,1
+mt32emu-qt,1
+jsonrpc,1
+ts api,1
+update,1
+clightning_twit,1
+continuous-integration,1
+artirfacts-core,1
+backends/gce,1
+lead:irt,1
+prio:minor,1
+backends/virtualbox,1
+area: packages,1
+redirect-to-dev-community,1
+lead:mik,1
+requires api upgrade,1
+boards,1
+scope:test,1
+area: protocol,1
+scope:build,1
+dogstream,1
+aa-triaged,1
+command enhancement,1
+type:pr,1
+do not close,1
+deploying,1
+good first contribution,1
+designdecision,1
+sqlalchemy,1
+type:enhancement,1
+django,1
+beginnerfriendly,1
+backends/ec2,1
+2 - working,1
+rsa,1
+v3.x,1
+v2.0,1
+needed: tests,1
+sync-code,1
+storage-security,1
+needed: more info,1
+group/ring sign,1
+workingon,1
+new integration,1
+3.0.0-rc4,1
+checks,1
+monitor,1
+solidity 0.8,1
+1 - ready,1
+dogstatsd,1
+service discovery,1
+sdk-merge,1
+sdk-later,1
+prio:blocker,1
+lead:srl,1
+type:question,1
+prio:major,1
+3 - done,1
+service checks,1
+type:bug,1
+wamp,1
+needs-upstream,1
+scope:sfm,1
+github,1
+baremetal,1
+rejected-feature,1
+language,1
+fetching,1
+flakes,1
+grading,1
+executors,1
+napi,1
+priority request,1
+cptbox,1
+missing feature,1
+externally requested,1
+need-simple-ci,1
+rss,1
+autocloseoldissue,1
+traverse,1
+underlying git,1
+status,1
+discover,1
+fork point,1
+waiting web implementation,1
+webapi,1
+search engine,1
+webui,1
+error-messages,1
+new-cli,1
+developer-experience,1
+backport-complete,1
+ca-derivations,1
+backport 2.13-maintenance,1
+nix-shell,1
+idea approved,1
+with-tests,1
+netmiko 1_1,1
+old version,1
+profiles,1
+needs help,1
+needs doc,1
+target-android,1
+target-ios,1
+announce,1
+build-problem,1
+sandbox,1
+reply-needed,1
+rop,1
+significant,1
+term,1
+releases,1
+shellcode,1
+process,1
+store,1
+needed: patch,1
+m1,1
+openingd,1
+registry,1
+norespone,1
+backend : whoosh,1
+board,1
+package management,1
+static analysis,1
+highpriority,1
+backend : solr,1
+backend : elasticsearch,1
+backend : all,1
+device management,1
+ldf,1
+moved,1
+need-information,1
+internals,1
+core cli behavior,1
+task execution,1
+task organization,1
+task signatures,1
+needs docs and/or changelog,1
+1.0.x,1
+information needed,1
+plugin-mp,1
+indexes,1
+plugin-layer,1
+patchwelcome,1
+3rd-party,1
+stretch,1
+python update,1
+tasks,1
+group,1
+wart,1
+ready to merge/rebase,1
+vip: approved,1
+connection,1
+vip: discussion,1
+sudo(),1
+dx,1
+mac-os,1
+stale no activity 60 days,1
+size: 5,1
+requires-changes,1
+motioneyeos,1
+troubleshooting,1
+priority-normal,1
+notourproblem,1
+csvkit,1
+i18n/l10n,1
+sandbox-and-shipping,1
+setup/config,1
+jedi-issue,1
+raspberry pi,1
+more-info-needed,1
+hooks,1
+urwid,1
+useability,1
+prirotiy: low,1
+integrations,1
+xbox one,1
+qemu,1
+linters,1
+bluetooth,1
+emulation,1
+watch,1
+evm,1
+next major release,1
+amop,1
+internal dataframe,1
+priority medium,1
+vanity,1
+msg-broadcast-optimize,1
+crypto-perf-optimize,1
+priority high,1
+moderate fix,1
+link,1
+tool request,1
+bfs,1
+executor,1
+needed: discussion,1
+precompiled,1
+optimize,1
+heap,1
+🙋 help wanted,1
+decisions,1
+✨ enhancement,1
+<15mins,1
+sdr,1
+pr-inactive,1
+twisted,1
+need input,1
+status: needs rework,1
+policy,1
+status: ready for release,1
+one-hour-fix,1
+missing pacman flag,1
+root / sudo / systemd dynamic users,1
+rfc - accepted,1
+known_hosts,1
+requires reverse engineering,1
+keys,1
+exception handling,1
+requires new save format,1
+cheat,1
+feature request eval needed,1
+needs policy decision,1
+hangs,1
+xmas-sprint,1
+stream behavior,1
+libtorrent,1
+arch:ppc,1
+c++20,1
+datasette-publish,1
+haiku,1
+bogus,1
+next_release,1
+faceting,1
+small,1
+tracking-issue,1
+datasette-insert,1
+csv,1
+authentication-and-permissions,1
+json-api,1
+json-extras,1
+spatialite,1
+linter,1
+auto-closed - stale,1
+developer environment,1
+major change,1
+build un/install,1
+forum discussion,1
+⭐️ new contributor friendly ⭐️,1
+sound,1
+demo player,1
+design discussion,1
+editor2,1
+secuirty,1
+hardfork,1
+1a epic,1
+staticfiles,1
+platform:other os,1
+state:needs more work,1
+6 protocol,1
+python:3.8,1
+area:bootloader,1
+@medium,1
+@low / cleanup,1
+kind:refactoring,1
+area:tests/ci,1
+area:test-suite,1
+python:3.6,1
+solution:works for me,1
+version:2.1,1
+2a discussion needed,1
+version:develop,1
+6 cli,1
+python:3,1
+state:verify,1
+solution:not enough info,1
+6 api,1
+4b normal priority,1
+low-prio,1
+database-index,1
+high-prio,1
+3b feature,1
+can be closed,1
+bamboo,1
+logs,1
+reconnect,1
+funding,1
+closingd,1
+pylightning,1
+state::wontfix,1
+gossip,1
+state::needinfo,1
+hsmd,1
+bindings,1
+lightningd,1
+onchaind,1
+bitcoind,1
+state::fixed,1
+source-issue,1
+ast representation,1
+symbolic engine,1
+fee,1
+channeld,1
+bsd,1
+lnd-compat,1
+pruning,1
+eclair-compat,1
+state::stale,1
+addr,1
+stubs,1
+ast lifting,1
+external tool,1
+optech make me famous!,1
+json-rpc,1
+discord-bot,1
+code-related,1
+discussion-讨论,1
+taint engine,1
+pr requested,1
+disassembly,1
+wontdo,1
+cross-platform,1
+symbolic optimization,1
+p1: high,1
+ast evaluation,1
+solver engine,1
+f: view,1
+f: query,1
+f: replication,1
+f: attachment,1
+assurance,1
+needs-rebase,1
+synthesizer engine,1
+voodoo,1
+ast,1
+microblogging,1
+put()/get(),1
+kind:support,1
+area:project infrastructure,1
+area:hooks,1
+inprogress,1
+ready-for-ci,1
+swagger ui,1
+2d developing,1
+1c task,1
+sockeye_3,1
+sockeye_2,1
+sockeye_1,1
+backwards_incompatible,1
+currency storage,1
+to start,1
+6 build,1
+5b docs in progress,1
+win_test,1
+announcement,1
+3c enhancement,1
+needs-docs,1
+wontmerge,1
+needs docs,1
+needs input,1
+high prio,1
+low prio,1
+tuning,1
+2f testing,1
+gardenia,1
+question/discussion,1
+best-practice,1
+class-project,1
+sponsored,1
+clean-up,1
+release-candidate,1
+clean up,1
+algo,1
+arch:arm,1
+need confirmation,1
+testclient,1
+arch:x86,1
+cors,1
+**hot**,1
+pre-commit,1
+resolver,1
+pyproject.toml,1
+hashes,1
+[project],1
+writer,1
+tests/ci,1
+pep-517,1
+setuptools,1
+implemented in v3,1
+no-future,1
+project-idea,1
+pr wanted,1
+voting,1
+judging,1
+area:modulegraph,1
+area:documentation,1
+code to integrate,1
+test needed,1
+dev,1
+opencv,1
+plotly.js,1
+solution:won't fix,1
+1b user story,1
+6 dex,1
+solution:duplicate,1
+6 ux,1
+@high,1
+solution:invalid,1
+2b gathering requirements,1
+pull-request wanted,1
+solution:read the manual,1
+9d gigantic,1
+state:need info,1
+@low,1
+version 5,1
+kind:to be discussed,1
+state:stale by author,1
+6 security,1
+area:hooks/pyside,1
+platform:os x,1
+sagemaker_container,1
+9b small,1
+3a request,1
+diy_container,1
+6 plugin,1
+bridge,1
+contest,1
+admin,1
+6 performance,1
+comments,1
+aap,1
+super,1
+2h accepted,1
+intermediate,1
+4a low priority,1
+technical-debt,1
+2c ready for development,1
+grokability,1
+spdx,1
+accepting suggestions,1
+good for new contributors,1
+provider-changes,1
+data-changes,1
+ee,1
+api:v4,1
+websockets,1
+size:xl,1
+upload-wheel,1
+ansible,1
+ssp,1
+category: saliency,1
+category: dnn_superres,1
+category: face,1
+category: tracking,1
+category: text,1
+category: intensity_transform,1
+category: plot,1
+category: optflow,1
+new module,1
+category: bioinspired,1
+category: xphoto,1
+category: bgsegm,1
+category: image quality,1
+category: videostab,1
+category: line_descriptor,1
+category: dnn (moved out),1
+action / change needed,1
+category: matlab,1
+category: infrastructure,1
+category: datasets,1
+category: latentsvm / dpm,1
+@ script api,1
+@ client / audiovisuals,1
+supported by core dev,1
+one approval,1
+waiting (on dependency),1
+>= two approvals,1
+@ client / controls / input,1
+@ build,1
+@ translation,1
+roadmap: needs approval,1
+category: structured_light,1
+category: mcc,1
+category: surface_matching,1
+category: ccalib,1
+m:sfml-network,1
+s:rejected,1
+p:windows,1
+m:unittest,1
+p:android,1
+m:sfml-audio,1
+p:linux,1
+p:ios,1
+m:example,1
+p:macos,1
+spam,1
+category: build/install,1
+category: cuda,1
+category: wechat_qrcode,1
+category: sfm,1
+category: freetype,1
+category: cvv,1
+category: xfeatures2d,1
+category: aruco,1
+category: python bindings,1
+category: rgbd,1
+category: ximgproc,1
+category: documentation,1
+category: rapid,1
+question (invalid tracker),1
+category: viz,1
+category: stereo,1
+category: ovis,1
+category: alphamat,1
+@ mapgen,1
+@ mainmenu,1
+s:superseded,1
+quick,1
+3d,1
+point clouds,1
+python console,1
+qgis browser,1
+map tools,1
+attribute table,1
+gui/ux,1
+map and legend,1
+projections/transformations,1
+grass,1
+frozen,1
+topology checker,1
+mesh,1
+sld support,1
+changelogexclude,1
+won't add,1
+gps,1
+wmts data provider,1
+labeling,1
+geos,1
+pyqgis,1
+freeze exempt,1
+configs and options,1
+symbology,1
+data provider,1
+arcgis rest provider,1
+arcgis feature server data provider,1
+testsuite,1
+requires tests!,1
+merge after thaw,1
+digitizing,1
+postgis data provider,1
+profile tool,1
+changelogharvested,1
+@ startup / config / util,1
+@ builtin,1
+possible close,1
+formspec,1
+@ server / client / env.,1
+rebase needed,1
+adoption needed,1
+@ content / pkgmgr,1
+@ client rendering,1
+@ devtest game,1
+@ client script api,1
+trivial,1
+textures,1
+shaders,1
+sounds,1
+controversial,1
+@ network,1
+testing needed,1
+non-trivial,1
+user feedback needed,1
+protocol bump,1
+neglect closure,1
+can't add,1
+@ documentation,1
+request / suggestion,1
+relations,1
+oracle data provider,1
+vector tiles,1
+print layouts,1
+m:sfml-window,1
+m:sfml-graphics,1
+forms,1
+area: documentation,1
+parity-with-android,1
+user feedback,1
+bounty?,1
+o-occasional,1
+a-composer,1
+z-visibility-2,1
+z-d1,1
+auto-test-required,1
+t-defect,1
+x-needs-info,1
+area: bluetooth,1
+area: bluetooth host,1
+area: c++,1
+area: c library,1
+area: profiling,1
+area: samples,1
+area: trusted execution,1
+area: kernel,1
+area: drivers,1
+platform: microchip sam,1
+area: can,1
+hardware support,1
+area: arm,1
+area: tests,1
+area: api,1
+area: test framework,1
+area: qemu,1
+area: memory protection,1
+area: build system,1
+area: kconfig,1
+a-e2ee-key-backup,1
+a-e2ee-sas-verification,1
+a-scalar,1
+a-room-upgrades,1
+do_not_merge,1
+webp,1
+nsurlcache,1
+carthage,1
+t-enhancement,1
+x-needs-design,1
+z-papercuts,1
+a-timeline,1
+z-visibility-1,1
+z-impact-1,1
+a-room-list,1
+a-e2ee,1
+a-e2ee-cross-signing,1
+integration-manager-sprint,1
+a-integrations,1
+privacy-sprint,1
+a-identity-server,1
+a-lazy-loading,1
+spec compliance,1
+s-major,1
+x-blocked,1
+a-user-settings,1
+a-registration,1
+a-soft-logout,1
+a-aggregations,1
+a-redaction,1
+a-message-editing,1
+parity-with-web,1
+feature:permalink,1
+area: usb,1
+area: devicetree,1
+m:sfml-system,1
+merge with rebase,1
+area: ipc,1
+area: x86,1
+area: nios2,1
+waiting reviewers,1
+think it's ready to land,1
+to trash?,1
+virtual tables,1
+user experience,1
+blueprint,1
+bpf,1
+macos catalina,1
+macos big sur,1
+carving,1
+hardening,1
+process auditing,1
+ext,1
+cla signed,1
+merged,1
+memory leak,1
+debt,1
+officehours,1
+query-scheduler,1
+packs,1
+zeek,1
+fim,1
+flaky test,1
+efficiency,1
+r-package,1
+m:config,1
+m:doc,1
+area: miscellaneous,1
+area: xtensa,1
+area: debugging,1
+area: file system,1
+area: boards,1
+area: userspace,1
+platform: nxp,1
+area: arc,1
+area: smp,1
+area: toolchains,1
+area: portability,1
+area: west,1
+area: bluetooth mesh,1
+area: bluetooth controller,1
+area: networking,1
+area: sensors,1
+area: power management,1
+area: misra-c,1
+area: logging,1
+area: native port,1
+area: pwm,1
+platform: stm32,1
+area: coding guidelines,1
+area: timer,1
+area: architectures,1
+platform: nrf,1
+area: shell,1
+area: configuration system,1
+area: crypto / rng,1
+area: flash,1
+area: security,1
+area: device management,1
+area: networking clients,1
+temporal,1
+squash!,1
+watchos,1
+chlorine v3007.0,1
+please test,1
+impact medium,1
+reach low,1
+difficulty hard,1
+difficulty medium,1
+fasttext,1
+difficulty easy,1
+need info,1
+needs-triage,1
+boto,1
+state-module,1
+vault,1
+pending-discussion,1
+execution-module,1
+lgpo,1
+tiamat,1
+salt-api,1
+salt-ssh,1
+renderers,1
+fixed-pls-verify,1
+opensuse,1
+grains,1
+k8s-modules,1
+salt-cloud,1
+pillar,1
+proxy-minion,1
+beacon,1
+runners,1
+sulfur v3006.0,1
+expected-behavior,1
+team,1
+experiment,1
+back-burner,1
+wysiwyg,1
+full text search,1
+unit of work,1
+unsupported database,1
+dialects,1
+mysql,1
+datatypes,1
+inheritance,1
+sybase,1
+result fetching api improvements,1
+sql server,1
+connection pool,1
+reopen if interested,1
+big job,1
+functions,1
+naming conventions,1
+quagmire,1
+time consuming / tedious,1
+association proxy,1
+cextensions,1
+firebird,1
+py3k,1
+external db2 issues,1
+py,1
+devx,1
+needs upstream fix,1
+plot,1
+r,1
+ide,1
+interview,1
+vmware,1
+severity-high,1
+sqlalchemy.ext,1
+zreleased - fluorine,1
+v3000.3,1
+v2019.2.5,1
+slack,1
+zrelease-sodium,1
+severity-critical,1
+zreleased - neon,1
+outputters,1
+docstring-update,1
+module doc standards,1
+v2019.2.1,1
+zzzwarroom,1
+pending-changes,1
+doc-ex-missing,1
+zreleased - 2018.3.3,1
+spm,1
+multi-master,1
+zreleased - 2018.3.1,1
+zreleased - 2017.7.6,1
+transport,1
+salt-check,1
+zreleased - 2018.3.0,1
+riot,1
+salt-syndic,1
+salt-enhance,1
+sudo_user,1
+zreleased - 2017.7.0rc1,1
+zreleased - carbon,1
+zreleased - boron,1
+doc-rework,1
+zzz[done]-back-ported-bf,1
+tech-debt,1
+doc-correction,1
+needs-testcase,1
+magnesium,1
+phosphorus v3005.0,1
+rhel,1
+salt-extensions,1
+effort-small,1
+gitfs,1
+state-compiler,1
+requisite,1
+time-estimate-sprint,1
+returners,1
+delta-proxy,1
+file servers,1
+package-repo,1
+aix,1
+silicon v3004.0,1
+juniper,1
+effort-xmall,1
+effort-large,1
+info-needed,1
+zd,1
+debian,1
+aluminium,1
+effort-medium,1
+doc-request,1
+time-estimate-long-term,1
+salt install guide,1
+has-failing-test,1
+merge-conflict,1
+tests-passed,1
+master-port,1
+horizontal sharding,1
+code review in progress,1
+wms data provider,1
+mpi,1
+category: lp transformations,1
+tce,1
+category: c api,1
+category: gna,1
+category: docs,1
+category: preprocessing,1
+category: ir fe,1
+category: hetero,1
+effort: ∞,1
+userspace,1
+posix compliance,1
+new function,1
+distributions,1
+numerics,1
+wasn't fixed,1
+abp-cli,1
+fullci,1
+optimizer,1
+test/benchmark,1
+masterprojekt,1
+first steps,1
+pr open,1
+abp-template-app,1
+abp-framework,1
+abp-module-setting-management,1
+abp-module-docs,1
+ui-blazor,1
+abp-module-blob-storing-database,1
+abp-module-account,1
+ui-mvc,1
+category: tools,1
+pse,1
+category: ngraph,1
+category: inference,1
+delimited text data provider,1
+not for merge,1
+ms sql data provider,1
+metasearch,1
+georeferencer,1
+vectors,1
+data source manager,1
+requires changes!,1
+prototype,1
+dxf/dwg,1
+worth a revival,1
+api break!,1
+category: onnx fe,1
+category: gpu,1
+category: pdpd fe,1
+category: mo,1
+category: vpu,1
+support_request,1
+category: core,1
+category: ie tests,1
+category: cpu,1
+category: build,1
+category: python api,1
+category: ci,1
+category: dependency_changes,1
+category: tf fe,1
+category: packaging,1
+category: pytorch fe,1
+category: pot,1
+abp-module-cms-kit,1
+abp-io,1
+mariadb,1
+complaint / disgust,1
+abp-module-client-simulation,1
+datatable,1
+size: 1,1
+size: 0.3,1
+size: 0.5,1
+status: discussion needed,1
+highlevelgraph,1
+scheduler,1
+needs attention,1
+dataframe,1
+io,1
+parquet,1
+array,1
+good second issue,1
+doc me bro,1
+abp-module-blogging,1
+wontfix / out of scope,1
+use case,1
+orm,1
+upserts,1
+returning,1
+loader options,1
+hard orm,1
+reflection,1
+external driver issues,1
+third party integration issues,1
+fairly easy,1
+declarative,1
+alchemy 2,1
+sqlite,1
+ui-react-native,1
+abp-template-wpf,1
+abp-module-audit-logging,1
+problem,1
+inactive,1
+ui-angular,1
+abp-module-permission-management,1
+abp-template-app-nolayers,1
+abp-module-openiddict,1
+eshoponabp,1
+abp-module-basic-theme,1
+abp-module-feature-management,1
+effort-0,1
+abp-template-maui,1
+abp-module-identity,1
+abp-template-module,1
+effort-8,1
+stuck,1
+effort-5,1
+effort-2,1
+effort-3,1
+effort-1,1
+abp-module-identityserver,1
+abp-module-tenant-management,1
+abp-samples,1
+effort-40,1
+effort-21,1
+effort-0.5,1
+pull-request-candidate,1
+community-article-request,1
+effort-13,1
+abp-community,1
+effort-60,1
+gif,1
+catalyst,1
+v7,1
+pr: pending additional work,1
+sp/2,1
+feature removal,1
+mitre att&ck,1
+sp/1,1
+monkeyzoo,1
+expert,1
+qa,1
+level design,1
+admin ux,1
+needs/discussion,1
+ops/deployment,1
+journalist interface (ji),1
+goals: improve ansible logic / smoother install,1
+goals: packaging,1
+goals: journalist experience,1
+fixes a bz,1
+goals: improve packaging,1
+development env,1
+goals: improve developer workflow,1
+source interface (si),1
+goals: app code cleanup,1
+goals: sick ci,1
+ossec,1
+goals: improve source experience,1
+needs/research,1
+accuracy checker,1
+downloader,1
+interesting,1
+backport-stable-4.0,1
+backport-stable-5.0,1
+unverified,1
+impact: critical,1
+impact: low,1
+ransomware,1
+portal,1
+p-low,1
+partner,1
+pip,1
+conda,1
+tensorflow,1
+0 - priority p0,1
+benchmark,1
+2 - priority p2,1
+explain,1
+1 - priority p1,1
+sampler,1
+cs224w,1
+graphgym,1
+type hints,1
+reported by user,1
+impact: high,1
+complexity: high,1
+sp/20,1
+exploit,1
+complexity: low,1
+sp/3,1
+impact: medium,1
+sp/5,1
+complexity: medium,1
+sp/8,1
+sp/13,1
+payloads,1
+spike,1
+backport-stable-6.0,1
+dnm,1
+p-high,1
+area/actions,1
+area/cli,1
+area/registry,1
+area/visualization,1
+area/docs,1
+commercial,1
+area/hub,1
+area/connections,1
+area/compiler,1
+area/scheduler,1
+area/agents,1
+area/analytics,1
+area/specification,1
+area/tracking,1
+area/polyflow,1
+area/initializers,1
+do-not-close,1
+area/hooks,1
+area/pql,1
+area/sidecar,1
+area/polytune,1
+in-v1,1
+area/operator,1
+area/notebooks,1
+git-ops,1
+area/events,1
+good feature request,1
+keep,1
+needs refinement,1
+memory,1
+quick fix,1
+area/api,1
+area/ui,1
+need follow-up,1
+controller,1
+cafoutche,1
+triage/stale,1
+kibana,1
+logstash,1
+apm-server,1
+backported,1
+v7.16.1,1
+filebeat,1
+metricbeat,1
+v6.8.14,1
+v7.10.2,1
+v6.8.15,1
+v7.11.2,1
+v6.8.13,1
+v7.9.3,1
+v7.9.1,1
+v6.8.11,1
+project:helm3,1
+feature-approved,1
+requires-review,1
+tagging,1
+requires-decision,1
+needs-work,1
+more-details-requested,1
+requires-merge,1
+git,1
+powerflow,1
+timeseries,1
+converter,1
+in consideration,1
+simulator:pysim,1
+sighteddevideal,1
+easy task!!!,1
+nanog84-hackathon,1
+junos,1
+pending discussion,1
+get_facts,1
+transport issue,1
+requested changes,1
+iosxr,1
+ntc_rosetta,1
+new method,1
+new scanner,1
+new feature,1
+1 - backlog,1
+has_pr,1
+2 - wip,1
+sprints!,1
+python semantics,1
+technical question,1
+newplugin,1
+mediafile,1
+mediumsize,1
+migrated,1
+needed: design decision,1
+community effort,1
+needed: more information,1
+operations,1
+export,1
+learning algorithm,1
+staging,1
+flatpak,1
+next minor release,1
+underlying library,1
+optional arg,1
+needs testcase,1
+eos,1
+mimo,1
+helpdesk,1
+finished,1
+need-pm-discussion,1
+area: visual studio,1
+area: template-content,1
+gathering-feedback,1
+need-discussion,1
+impeded,1
+area: cli,1
+area: authoring,1
+area: content-generation,1
+cost:s,1
+need-customer-info,1
+priority:1,1
+user story,1
+cost:m,1
+parent:1240298,1
+size:5.0,1
+size:3.0,1
+iteration:2023june,1
+size:2.0,1
+iteration:2023april,1
+area:platform,1
+area:webapi,1
+area:catalog,1
+area:theming,1
+1.22.x,1
+1.23.x,1
+error reporting,1
+cython language feature,1
+simulator:cxxsim,1
+analysis,1
+sprint-20211128,1
+sprint-20211031,1
+document,1
+optuna.pruners,1
+sprint-20200912,1
+spc,1
+level:starter,1
+rule request,1
+level:advanced,1
+codeball:needs-careful-review,1
+envs,1
+algos,1
+pytorch,1
+tf,1
+review requested,1
+type analysis,1
+unpacking,1
+compare,1
+companion,1
+raop,1
+confirmation,1
+scripts,1
+airplay,1
+mrp,1
+dmap,1
+environment,1
+meta:needs-rfc,1
+meta:changelog,1
+meta:help-wanted,1
+unsoundness,1
+sprint-20211219,1
+optuna.study,1
+sprint-20220130,1
+sprint-20220227,1
+code generation,1
+parsing,1
+numpy,1
+coverage,1
+r: wontfix,1
+pure python mode,1
+library,1
+p: blocker,1
+pythran,1
+buffers,1
+python3 semantics,1
+watchmedo,1
+help welcome :),1
+dirsnapshot,1
+incomplete (need more info),1
+fsevents-c,1
+optuna.storages,1
+optuna.visualization,1
+optuna.integration,1
+optuna.trial,1
+contribution-welcome,1
+optuna.samplers,1
+optuna.importance,1
+sprint-20221106,1
+optuna.testing,1
+description-checked,1
+code-fix,1
+no-stale,1
+sprint-20220424,1
+component/nvda-gui,1
+audience/low-vision,1
+heif,1
+size-small,1
+topic-__all__,1
+affects-typeshed,1
+topic-literalstring,1
+semantic-analyzer,1
+topic-reveal-type,1
+priority-0-high,1
+topic-overlap,1
+topic-implicit-reexport,1
+topic-named-tuple,1
+topic-quoted-annotations,1
+topic-depends-on-pep-change,1
+topic-type-form,1
+topic-newtype,1
+topic-pep-484,1
+topic-import-cycles,1
+e: medium,1
+topic-strict-optional,1
+topic-fine-grained-incremental,1
+topic-incremental,1
+size-large,1
+topic-recursive-types,1
+size-medium,1
+topic-parser,1
+t: 消息管理,1
+t: 微信支付,1
+被动响应,1
+e: easy,1
+t: 小程序,1
+企业微信,1
+主动调用,1
+false-positive,1
+topic-disallow-any,1
+topic-paramspec,1
+topic-type-ignore,1
+topic-match-statement,1
+topic-pep-696,1
+topic-partially-defined,1
+topic-casts,1
+topic-async,1
+topic-mypyc,1
+topic-typed-dict,1
+topic-overloads,1
+topic-calls,1
+priority-2-low,1
+topic-pep-604,1
+topic-runtime-semantics,1
+topic-dataclass-transform,1
+topic-inference,1
+topic-self-types,1
+topic-inheritance,1
+topic-metaclasses,1
+topic-pep-572,1
+topic-enum,1
+topic-daemon,1
+topic-python2,1
+topic-variable-scope,1
+topic-union-types,1
+topic-join-v-union,1
+topic-type-alias,1
+topic-protocols,1
+topic-typeguard,1
+good-second-issue,1
+topic-ternary-expression,1
+文档,1
+t: 微信卡券,1
+topic-attrs,1
+topic: telemetry,1
+dependency-management,1
+planned-next,1
+caching,1
+swift-scripting,1
+uploading,1
+blocking,1
+text-change,1
+under discussion,1
+fixed in testflight,1
+topic: design,1
+carplay,1
+topic: cartography,1
+topic: directions,1
+topic: location,1
+topic: localization,1
+异步,1
+drop-in,1
+topic: camera,1
+topic: instructions,1
+workaround available,1
+topic: architecture,1
+topic: traffic,1
+topic: voice,1
+needs more information,1
+topic: accessibility,1
+topic: search,1
+apple bug,1
+raw-image,1
+nsurlsession,1
+behavior changes,1
+networking-stack,1
+objc -> swift,1
+moderate,1
+model zoo,1
+jssdk,1
+community help wanted,1
+need-issue,1
+commons,1
+logger,1
+event_handlers,1
+need-license-agreement-acknowledge,1
+revisit,1
+event_sources,1
+tracer,1
+feature_flags,1
+github-actions,1
+streaming,1
+github-templates,1
+jmespath,1
+batch,1
+need-more-information,1
+utilities,1
+revisit-in-3-months,1
+need-customer-feedback,1
+middleware_factory,1
+need-documentation,1
+eswn-workshop,1
+scipy-sprint,1
+swag worthy,1
+ml,1
+notebook,1
+awaiting more evidence,1
+dataset zoo,1
+topic-stubtest,1
+topic-reachability,1
+blocked/needs-technical-investigation,1
+close/worksforme,1
+blocked/merge-conflicts,1
+merge-early,1
+component/speech-synth-drivers,1
+babbagework,1
+feature/say-all,1
+component/logging,1
+component/text-info,1
+z pr/requirespy3update (archived),1
+app/windows-interface,1
+feature/configuration-profiles,1
+googlework,1
+app/chrome,1
+component/braille-ux,1
+app-specific,1
+z app/edge (archived),1
+priority:p1,1
+z app/edge/spartan (archived),1
+component/display-model,1
+bug/double-speaking,1
+app/libreoffice,1
+feature/math,1
+close/cantfix,1
+feature/configuration,1
+blocked/needs-external-fix,1
+app/edge/anaheim,1
+feature/touch-screen,1
+packaging:flatpak,1
+component:sndcpy,1
+component:mapper,1
+priority:p3,1
+addon/api,1
+blocked/needs-code-review,1
+close/wontfix,1
+component/vision,1
+feature/browse-mode,1
+platform/windows11,1
+feature/windows-explorer,1
+component/audio,1
+feature/input-gestures,1
+app/firefox,1
+blocked/needs-product-decision,1
+component/uia-ms-office,1
+component/installer,1
+component/documentation,1
+component/braille,1
+addon/management,1
+feature/addon-store,1
+feature/screen-curtain,1
+app/microsoft-office,1
+component/speech,1
+z goodfornewdev (archived),1
+component/audio-ux,1
+feature/i18n,1
+z goodfirstissue (archived),1
+audience/nvda-dev,1
+aria,1
+close/duplicate,1
+component/braille-display-drivers,1
+app/windows-console,1
+conceptapproved,1
+deprecated/2021.1,1
+feature/mouse-tracking,1
+closed/needs-new-author,1
+no-activity,1
+component:scrcpy,1
+topic-pep-561,1
+text classification,1
+long-term feature,1
+jupyter,1
+new-library,1
+t2b1,1
+tt,1
+bitcoin,1
+coin definitions,1
+altcoin,1
+bootloader t1,1
+bootloader tt,1
+fido,1
+release-0.13,1
+sequence tagger,1
+new language,1
+topic-type-narrowing,1
+path,1
+topic-final,1
+topic-usability,1
+topic-error-reporting,1
+topic-plugins,1
+topic-dataclasses,1
+topic-literal-types,1
+priority-1-normal,1
+topic-pep-646,1
+topic-configuration,1
+topic-developer,1
+topic-stubgen,1
+topic-descriptors,1
+topic-tests,1
+topic-type-variables,1
+probably solved,1
+pr-party-update-sync,1
+pr-party-update-async,1
+make-issue,1
+autogenerate - rendering,1
+migration environment,1
+motivated volunteers requested,1
+autogenerate - defaults,1
+autogenerate - detection,1
+command interface,1
+batch migrations,1
+op directives,1
+external sqlalchemy issues,1
+fast-track,1
+execution model,1
+tier 1,1
+versioning model,1
+multitenancy,1
+autogenerate for enums,1
+tier 2,1
+preferences,1
+async,1
+qt6,1
+ready for merge,1
+ui change,1
+triaged-0.4.18,1
+vision,1
+ux research,1
+qt_viewer,1
+bundle,1
+priority-medium,1
+vispy,1
+sprint,1
+multiplayer,1
+col_names :name_badge:,1
+heightmap,1
+component: gradle-plugin,1
+feature: widget,1
+feature: profile,1
+feature: interceptor,1
+feature: log viewer,1
+feature: routine ops,1
+feature: file manager,1
+status: wip,1
+severity: 3,1
+feature: adb,1
+severity: 2,1
+easy feature,1
+semver:minor,1
+fixed/added,1
+pr welcome!,1
+3.0.x-backport,1
+component: ide-plugin,1
+component: sql-psi,1
+component: compiler,1
+extension: paging,1
+component: runtime,1
+component: sqlite-migrations,1
+component: drivers/native,1
+component: drivers/jdbc,1
+component: drivers/android,1
+intellij-plugin,1
+filepicker,1
+code-ready,1
+lang/kotlin,1
+priority: 0,1
+feature: running apps,1
+status: partly fixed,1
+feature: scanner,1
+f/graphql,1
+f/elasticsearch,1
+f/schema,1
+driver-profinet,1
+driver-s7,1
+driver-ethernet/ip,1
+workflows,1
+kind/feature,1
+api-changes-epic,1
+dependent-resources-epic,1
+eventsources-epic,1
+error-handling,1
+caching-epic,1
+exploratory,1
+devex-epic,1
+scheduling-improvements-epic,1
+triage/support,1
+fabric8,1
+in-review,1
+status: pending,1
+priority: 5,1
+status: rejected,1
+priority: 4,1
+feature: 1-click ops,1
+feature: installer,1
+third-party issue,1
+status: open,1
+subsystem::code insight::auto import,1
+subsystem::code insight,1
+subsystem::parsing,1
+e-mentor,1
+name resolution 2.0,1
+subsystem::cfg,1
+subsystem::repl,1
+subsystem::wasm,1
+subsystem::build scripts,1
+rust 2018,1
+subsystem::scratch,1
+incompatible-kotlin-version,1
+json,1
+compiler-plugin,1
+docs needed,1
+json-builders,1
+cbor,1
+waiting for clarification,1
+protobuf,1
+static modules,1
+format request,1
+common,1
+ktor,1
+js,1
+in next release,1
+smart speaker,1
+priority: urgent,1
+parent issue,1
+on hold: server side,1
+priority-p3,1
+feature-sync,1
+subsystem::embedded,1
+subsystem::proc-macros,1
+subsystem::build & run,1
+rust 2021,1
+subsystem::toml,1
+subsystem::project model,1
+subsystem::macros,1
+subsystem::type inference & name resolution,1
+subsystem::highlighting,1
+subsystem::tools,1
+subsystem::qdoc,1
+subsystem::ide,1
+subsystem::tests,1
+subsystem::language injection,1
+subsystem::refactoring,1
+subsystem::console & terminal,1
+subsystem::ui,1
+subsystem::doc coments,1
+subsystem::сompletion,1
+2022.3,1
+subsystem::hints,1
+e-medium,1
+subsystem::debugger,1
+to be documented,1
+e-hard,1
+subsystem::tools::external linter,1
+subsystem::infrastructure,1
+subsystem::fmt,1
+e-easy,1
+subsystem::wsl,1
+subsystem::profiler,1
+f/plugins,1
+3.1.x backport,1
+open-for-all,1
+showcase,1
+protocols,1
+disscuss,1
+kind/feature-request,1
+soc2020,1
+area/portal,1
+area/configservice,1
+area/adminservice,1
+area/openapi,1
+area/metaserver,1
+area/operations,1
+tracing,1
+ci settings,1
+helm,1
+demo env,1
+3.2.x backport,1
+license eye,1
+core feature,1
+no update,1
+infra-e2e,1
+tbd,1
+elastic/open-search,1
+swck,1
+rover,1
+nodejs,1
+submodule update,1
+complexity:medium,1
+client js,1
+satellite,1
+services/api,1
+l&f,1
+javafx,1
+gluon mobile,1
+cherry-pick,1
+extension-system,1
+2.7,1
+breaking changes,1
+2.8,1
+variables,1
+up for debate,1
+priority: lowest,1
+complete,1
+qaverified,1
+e2,1
+tracking protection (fadp-xx),1
+ac integration,1
+pin,1
+qaapproved,1
+needs geckoview api,1
+ready for eng breakdown,1
+geckoview🦎,1
+qanotneeded,1
+a/b experiment,1
+eng:automation,1
+klar,1
+legal,1
+automated,1
+a-c,1
+q/discussion/feedback,1
+wait/maybe/cantreproduce,1
+nginx,1
+so11y,1
+ignore for release,1
+pac4j,1
+consul,1
+caffeine,1
+cassandra,1
+couchbase,1
+jooby:run,1
+rxjava,1
+mongodb,1
+morphia,1
+akka,1
+hbs,1
+owncloud,1
+b2,1
+googledrive,1
+dropbox,1
+nextcloud,1
+azure,1
+onedrive,1
+cryptomator,1
+webdav,1
+openstack,1
+ftp,1
+sharepoint,1
+thirdparty,1
+worksforme,1
+appstore,1
+triton,1
+dracoon,1
+assets,1
+redoc,1
+edge,1
+apitool,1
+rule engine,1
+android-app,1
+guide,1
+rocksdb,1
+raft,1
+ci-cd,1
+apache,1
+tikv,1
+gremlin,1
+hbase,1
+template-engine,1
+jte,1
+camel,1
+json-b,1
+jasypt,1
+jdbi,1
+ebean,1
+hikari,1
+netty,1
+jetty,1
+undertow,1
+web-server,1
+h2,1
+redis,1
+thymeleaf,1
+whoops,1
+banner,1
+closed-duplicate,1
+feature-cud,1
+priority-p2,1
+version support,1
+tilemaps,1
+devtool,1
+nice2have,1
+unit tests,1
+packagemanager,1
+arguable,1
+vs-git-ext,1
+politely declined/invalid,1
+api enhancement,1
+jump-in,1
+dbconfig,1
+needresearch,1
+external package issue,1
+5 - released,1
+effort-m,1
+blocked - external,1
+taskitem,1
+target-maui,1
+target-xamarin,1
+platform-maccatalyst,1
+gnome,1
+3.x,1
+feature:durable functions,1
+1 - in progress,1
+dashboard,1
+sourceforge,1
+1.0,1
+pro version,1
+columnizer,1
+backend feature,1
+gtk3,1
+new control,1
+community feedback wanted,1
+v5.0-alpha ready,1
+on-nuget-in-alpha,1
+v5.x,1
+attention required,1
+readability/style,1
+csp,1
+severity:medium,1
+area:grid,1
+effort: hard (weeks),1
+area:chart,1
+severity:low,1
+status: done,1
+area:input,1
+effort: easy (hours),1
+effort: medium (days),1
+cla:no,1
+area:primitives,1
+status: inprogress,1
+area:datacontrols,1
+severity:high,1
+vnext,1
+mono,1
+netfx blocked,1
+not suitable,1
+gtk2,1
+missing backend,1
+api-approved,1
+api-suggestion,1
+project-mgmt,1
+~wontfix,1
+~by design,1
+done!,1
+answered!,1
+ready to publish,1
+difficulty:intermediate,1
+difficulty:advanced,1
+difficulty:beginner,1
+workaround required,1
+advanced features,1
+noverificationneeded,1
+winui3,1
+generated code,1
+can close out soon,1
+c#,1
+pipeline changes,1
+uwp,1
+winui preview,1
+caliburn.micro,1
+introduces breaking change,1
+microsoft on point,1
+right click,1
+19h1,1
+activation,1
+fall-creators-update,1
+rs4,1
+wizard,1
+page,1
+~decline,1
+vs,1
+doctor dump - crash report,1
+~duplicate,1
+awaiting user,1
+rebase-me,1
+behaviour change,1
+cool,1
+open for discussion,1
+needs: design,1
+asp.net core,1
+odata,1
+asp.net web api,1
+ux-cli,1
+major feature,1
+not needed anymore,1
+install error,1
+area-hybrid,1
+area-redis,1
+dev-done,1
+merged-to-release-branch,1
+client request,1
+hard question,1
+quickfix,1
+ready for: implementation,1
+ready for: analysis,1
+rider,1
+~approved,1
+vs2022,1
+universal,1
+vsmac,1
+how-to,1
+low prio for core polly team (contribs welcome!),1
+code styling clean-ups,1
+helidon,1
+gu,1
+oca-signed,1
+quarkus,1
+tracking,1
+oracle-emp,1
+accept,1
+in:kernel/bootstrap,1
+in:springboot,1
+target:beta,1
+no design approval request,1
+springboot-3.0,1
+in:security,1
+id required,1
+focalapproved:globalization,1
+focalapproved:ste,1
+focalapproved:id,1
+focalapproved:svt,1
+focalapproved:performance,1
+focalapproved:fat,1
+focalapproved:serviceability,1
+focalapproved:accessibility,1
+design approved,1
+focalapproved:demo,1
+target:22005,1
+release:22005,1
+focalapproved:externals,1
+in:install,1
+java on truffle,1
+platform-darwin,1
+fat complete,1
+vscode,1
+qa-verified,1
+feature-localization,1
+fenix,1
+needs-product,1
+feature-unlocking,1
+priority-p1,1
+feature-error-handling,1
+a-s,1
+feature-autofill,1
+feature-rebrand,1
+feature-onboarding,1
+feature-delete,1
+closed-invalid,1
+feature-fxa,1
+won't do,1
+nb api and libraries,1
+repl involved,1
+android auto,1
+skip changelog,1
+truffle,1
+native-image,1
+oca verified,1
+redhat-interest,1
+native-image-debuginfo,1
+wasm,1
+api candidate,1
+llvm,1
+in:ejb container,1
+beta:191100,1
+ci/build,1
+automated pr,1
+content moderation,1
+xmpp,1
+chatbot,1
+push notification,1
+module: plugin,1
+status:pending,1
+statistics,1
+module: controller,1
+turms-admin,1
+turms-client-js,1
+saas,1
+availability,1
+turms-client-kotlin,1
+turms-client-swift,1
+turms-gateway,1
+turms-service,1
+architecture,1
+load balancing,1
+turms-client-cpp,1
+video conferencing,1
+expected behavior,1
+willfix,1
+community_support,1
+waiting for response,1
+no reaction,1
+pull requests welcome,1
+unity53,1
+interruption,1
+tech debt,1
+target:20001,1
+dragon 🐲,1
+release:20001,1
+releasechecklistadded,1
+target:210011,1
+release:210011,1
+team:blizzard,1
+beta:20500,1
+release:200012,1
+target:200012,1
+wait for response,1
+serialization,1
+never gets stale,1
+suppressors,1
+needs type and symbol solving,1
+contains saved game,1
+ergonomics,1
+filesync,1
+completed developments,1
+paymentsheet,1
+cardinputwidget,1
+tiger 🐯,1
+corellium,1
+gcloud sdk,1
+new option,1
+snake 🐍,1
+hld,1
+sdd,1
+porch,1
+code-cleanup,1
+instrument: power source,1
+distance fields,1
+performance enhancers/optifine,1
+3.2,1
+3.1,1
+ha,1
+bolt server,1
+just for building,1
+operability,1
+2.3,1
+2.2,1
+team-cluster,1
+type/soc2019,1
+plugin engine,1
+unsupported version,1
+tic api,1
+major api change,1
+area - sql,1
+:core,1
+v8.2.0,1
+v8.3.0,1
+:spark,1
+v8.1.0,1
+v7.16.0,1
+v8.0.0-beta1,1
+:rest,1
+v8.0.0-alpha1,1
+v7.13.0,1
+:serialization,1
+:project-meta,1
+:hive,1
+3.3,1
+causal clustering,1
+opencypher,1
+3.4,1
+area - streaming ingestion,1
+feature/change description,1
+area - web console,1
+area - segment balancing/coordination,1
+development blocker,1
+area - null handling,1
+area - operations,1
+area - deep storage,1
+area - cache,1
+area - testing,1
+apache spark,1
+priority - high,1
+priority - medium,1
+priority - low,1
+priority - showstopper,1
+tasker,1
+ui-usecase,1
+howtos,1
+cypher,1
+team-cypher,1
+team-clg,1
+team-kernel,1
+team-drivers,1
+team-documentation,1
+browser,1
+team-ux,1
+team-packaging,1
+das awesome,1
+v6.0.0-beta1,1
+v5.5.0,1
+leverage: low,1
+complexity: 20+,1
+leverage: medium,1
+tool: datagrip,1
+feature: sql: type system,1
+feature: sql: window func,1
+feature: ux,1
+feature: sql: ddl,1
+complexity: 3-5,1
+resiliency,1
+feature: performance,1
+client: crate sqlalchemy,1
+howto,1
+java client library,1
+low level interface,1
+compose,1
+non-library,1
+waiting pull request,1
+needs approval,1
+gracehopperosd,1
+requirements pending,1
+typ: performance,1
+typ: enhancement,1
+act: in progress,1
+0.2.3,1
+0.3.0,1
+testing framework,1
+act: ready,1
+feature: sql: relations,1
+needs upvotes,1
+v5.3.0,1
+complexity: 1-3,1
+v6.0.0-alpha2,1
+:mr,1
+v5.0.0-alpha5,1
+stalled,1
+v2.2.0-beta1,1
+:new-integration,1
+v2.2.0-m1,1
+v2.2.0-rc1,1
+v2.1.0.rc1,1
+:pig,1
+:cascading,1
+:storm,1
+v2.1.0.beta4,1
+v2.1.0.beta3,1
+:yarn,1
+v2.1.0.beta2,1
+v2.0.0.rc1,1
+v1.3.0.m3,1
+v2.1.0.beta1,1
+v1.3.0.m2,1
+v1.3.0.m1,1
+simplification,1
+complexity: no estimate,1
+complexity: 5-8,1
+tool: trino,1
+tool: dbt,1
+feature: integration,1
+area - ingestion,1
+area - segment format and ser/de,1
+instrument: oscilloscope,1
+may,1
+charts,1
+retention,1
+cannot reproduce,1
+outputs,1
+s4,1
+prio 1,1
+prio low,1
+getting started,1
+javascript client,1
+java client,1
+netty5,1
+needs code,1
+graveyard,1
+should,1
+area - msq,1
+must,1
+fixed and needs testing,1
+3.0 spec support,1
+cucumber,1
+backported (1.x),1
+jpa,1
+mongo,1
+new functions,1
+linux system support,1
+inspetor issues,1
+prs plz!,1
+java api,1
+api change!,1
+timezones,1
+to-verify,1
+#l,1
+#m,1
+theories,1
+hamcrest,1
+parameterized,1
+maven,1
+has pull,1
+descriptions,1
+javadoc,1
+productize,1
+enhancement ,1
+wait for feedback,1
+unable to merge,1
+server-specific,1
+alerting,1
+content-packs,1
+secdev-cycle2,1
+test-day,1
+cs-reviewed,1
+inputs,1
+papercut,1
+sidecar,1
+dashboards,1
+needs-input,1
+ldap,1
+secdev-cycle6,1
+graylog schema,1
+users,1
+#s,1
+rest api,1
+open problem,1
+new event,1
+smali,1
+first-time,1
+waiting for issuer,1
+epic/oas3,1
+has-workaround,1
+can-use-for-docs,1
+for:team-discussion,1
+expirement,1
+interaction,1
+mekanism,1
+minorimportance,1
+fixed in dev,1
+moderateimportance,1
+aesthetic,1
+mekanism: generators,1
+edit screen,1
+difficulty: easy,1
+entitlement,1
+jaxrs,1
+subscription_base,1
+ext-candidate,1
+payment,1
+area - documentation,1
+area - batch ingestion,1
+area - extension,1
+area - compaction,1
+area - querying,1
+area - metrics/event emitting,1
+arsc,1
+waiting-for-contributor,1
+1.20,1
+shadow-dom,1
+fluids,1
+queued,1
+not us,1
+breakingchange,1
+forum,1
+vanilla bug,1
+wont fix/works as intended,1
+capabilities,1
+blocked upstream,1
+superseded,1
+1.17,1
+1.13,1
+omnibus,1
+1.11,1
+1.10,1
+screenshots,1
+appium,1
+waiting-for-author,1
+selenoid,1
+brainstorm,1
+not sure,1
+collections,1
+page objects,1
+downloading files,1
+element-containers,1
+soft-asserts,1
+cannot preproduce,1
+risk: low,1
+typ: stability,1
+mastersthesis,1
+component/extensions,1
+chrome-custom-tab,1
+fastlane,1
+image upload,1
+sharing,1
+nutrition facts,1
+portion calculator,1
+multilingual products,1
+clickability of values,1
+reactive-kafka-binder,1
+kafka-binder,1
+backport 3.2.x,1
+discussion-required,1
+component/java-generator,1
+status/stale,1
+spoon-maven-plugin,1
+status/never-stale,1
+component/kubernetes-client,1
+component/crd-generator,1
+component/kubernetes-model,1
+platform/openshift,1
+component/kubernetes-server-mock,1
+platform/kubernetes,1
+priority:medium,1
+out of scope v3.0,1
+auto-migrated sourceforge,1
+checked,1
+general,1
+hacktogether,1
+tablets,1
+data-saving,1
+webview,1
+camera,1
+nutrition editing,1
+editing,1
+ecoscore,1
+questions,1
+lists,1
+gamification,1
+mockup required,1
+product addition,1
+ingredient analysis,1
+mockup-available,1
+ingredients,1
+open beauty facts,1
+pull-request-available,1
+p1 candidate,1
+product page,1
+allergens,1
+nutriscore,1
+product-alternatives,1
+history,1
+categories,1
+ocr,1
+quickview,1
+api update required,1
+wikidata,1
+power users,1
+additives,1
+category-specific behaviour,1
+review done,1
+visible,1
+invisible,1
+existing functionality.,1
+browser-based-client,1
+code-maintenance,1
+claimed,1
+info needed,1
+thread-safety,1
+s,1
+little or no coding,1
+tool: utiliti,1
+tmx,1
+host ui,1
+too difficult,1
+c,1
+l,1
+h,1
+wait reply,1
+lost connection,1
+suspend,1
+xquery,1
+deploy,1
+re-add,1
+checklistview,1
+interoperability,1
+improvements,1
+status: conflicts,1
+status: abandoned,1
+ideas needed,1
+instrument: sensors,1
+design needed,1
+add-on support,1
+currently-out-of-scope,1
+build-configuration,1
+contribute welcome,1
+detection,1
+needs-definition,1
+dot11,1
+pr-welcome,1
+v0.17.0,1
+plugin-compatibility,1
+dev-tools,1
+first-time contributor,1
+zeta,1
+connectors-v2,1
+waiting for code update,1
+flink,1
+transform-v2,1
+spark,1
+cdc,1
+improve,1
+docker&k8s,1
+seatunnel-server,1
+connectors-v1,1
+flink-sql,1
+status: review required,1
+status: merge ready,1
+priority: critical,1
+discussing,1
+documentation needed,1
+macro changes,1
+comparison,1
+pending rebase,1
+hit,1
+myaccount,1
+complexity/medium,1
+resolution/done,1
+resolution/fixed,1
+affected-6.0.0,1
+severity/major,1
+complexity/low,1
+organization management,1
+intern,1
+qa-reported,1
+6.0.0-migration,1
+component/user mgt,1
+component/scim,1
+docs/new_restructure,1
+wum,1
+identity-core,1
+commitment,1
+severity/critical,1
+dev-exp,1
+developer-sdk,1
+consumer-exp,1
+developer-tool,1
+resolution/duplicate,1
+final,1
+component/identity rest apis,1
+identity apps modules/oauth web worker,1
+federated-oidc-back-channel-logout,1
+affected/5.10.0,1
+priority/highest,1
+component/identity apps,1
+a_commit,1
+component/connectors,1
+coroutine mode,1
+nginx-clojure-embed,1
+tomcat,1
+lazy,1
+very important,1
+«vavr-collection»,1
+«vavr-concurrent»,1
+«vavr-control»,1
+!back-compat,1
+reverted/closed/duplicate,1
+«vavr-core»,1
+«cross cutting»,1
+«vavr-api»,1
+«vavr-match»,1
+«vavr-test»,1
+«gwt»,1
+«non-public»,1
+design/refactoring/improvement,1
+update changelog,1
+difficult,1
+applied,1
+to be verified,1
+prio1,1
+vanilla,1
+complexity/high,1
+priority/high,1
+component/adaptive auth,1
+priority/normal,1
+ui component/configuration management,1
+coercion,1
+component/consent,1
+affected/5.6.0-beta,1
+affected/5.3.0,1
+affected/5.6.0-m6,1
+affected/5.5.0,1
+affected/5.5.0-alpha2,1
+affected/5.5.0-alpha,1
+release-notes,1
+multi-stage,1
+backward-incompat,1
+pep-request,1
+ingestion,1
+beginner-task,1
+geo,1
+user-experience,1
+upsert,1
+fertig,1
+guidebook,1
+open-for-discussion,1
+spatial-io,1
+awaiting-feedback,1
+main,1
+classes,1
+prelude,1
+design?,1
+level,1
+pattern-match,1
+apply-hole,1
+kernel-4.4.x-dep,1
+affected/5.8.0-m2,1
+ui component/group management,1
+component/deployment,1
+ui component/role management,1
+ui component/userstore management,1
+ui component/attribute management,1
+ui component/user management,1
+component/auth framework,1
+resolution/won’t fix,1
+component/tenant mgt,1
+affected/5.11.0-m12,1
+severity/blocker,1
+affected/5.10.0-beta2,1
+severity/minor,1
+component/saml,1
+affected/5.7.0,1
+component/oauth,1
+6.0.0-bug-fixing,1
+component/auth authz valve,1
+component/oidc,1
+approval/done,1
+component/user portal,1
+affected/5.9.0-alpha,1
+component/identity governance,1
+affected/5.8.0,1
+component/outbound auth,1
+affected/5.8.0-alpha2,1
+component/inbound auth,1
+component/identity mgt,1
+affected/5.6.0,1
+not enough information,1
+project-system,1
+interactive-window,1
+ios_system,1
+cannot-fix,1
+[models],1
+[core],1
+[css],1
+[attributedlabel],1
+[photos],1
+[networkimage],1
+[pagingscrollview],1
+[overview],1
+[launcher],1
+[webcontroller],1
+rtt,1
+ios16 bug,1
+customization,1
+waiting reply,1
+ssh,1
+libssh,1
+terminal,1
+mosh,1
+pr-encouraged,1
+worth-to-resurrect,1
+annotation processor,1
+launchwrapper,1
+roadmapped,1
+other jvm languages,1
+acceptance testing,1
+auditing,1
+cosmetic,1
+sponsor needed,1
+shortcutrecorder,1
+help-needed,1
+cloudkit,1
+shipped,1
+★,1
+good example,1
+★★,1
+★★★,1
+starter issue,1
+needs product decision,1
+consider closing,1
+⛔blocked,1
+indigo,1
+for android parity,1
+qa verified,1
+granite,1
+mustache/spec,1
+maintainence,1
+known,1
+a3.0.0,1
+firefox,1
+whitelist,1
+safari,1
+chrome,1
+easy-win,1
+iap,1
+in app purchase,1
+no_test,1
+qa_regression,1
+regression_test,1
+nexus,1
+hacktoberfest-2021,1
+nginx-http-module,1
+extra functionality,1
+arduino,1
+sdl,1
+pychan,1
+swig,1
+starting,1
+metal,1
+windows editor,1
+windows gui,1
+project triage pending,1
+todo: refactor,1
+todo: discuss,1
+artefact,1
+os: unix,1
+opengl,1
+feature/housing,1
+object detection,1
+sframe,1
+visualization,1
+toolkits,1
+one shot object detection,1
+upkeep,1
+cells :black_square_button:,1
+datetime :calendar:,1
+formats :nail_care:,1
+xls 👵,1
+new boards,1
+question/support,1
+import/export,1
+libv8,1
+es6,1
+for video,1
+fs,1
+nginx-module,1
+es5.1,1
+test262,1
+stdlib,1
+pmproxy,1
+v3archives,1
+pmseries,1
+janitor,1
+/series/query expr,1
+systemd,1
+mcumgr,1
+oicmgr,1
+smp,1
+newtmgr,1
+serial,1
+ble,1
+audio redirection,1
+sesman,1
+fixed in git,1
+longterm,1
+fix under test,1
+wip-dnm,1
+waiting for author response,1
+change request,1
+training,1
+long term,1
+services,1
+player,1
+test-adapter,1
+waiting submitter feedback,1
+not planned,1
+do not remove,1
+ppc,1
+synology,1
+armv7,1
+armv5,1
+scrobble,1
+beta,1
+activity,1
+v0.0.2,1
+awaiting merge,1
+need contributor!,1
+microsoft,1
+gmail,1
+tricky,1
+low-hanging-fruit,1
+stable/3.0.x,1
+portland,1
+pending-feedback,1
+dev/2.11.x,1
+stable/2.10.x,1
+stable/2.6.x,1
+stable/2.2.x,1
+stable/2.0.x,1
+stable/1.0.x,1
+type: discussion,1
+needs 4.x pr too,1
+support for non-standard files,1
+st4,1
+c: syntax,1
+c: wiki,1
+c: plugins,1
+area-api,1
+affected-few,1
+status: resolved,1
+backlog-item,1
+:anchor:  release: new wave,1
+xamarin,1
+priority 1,1
+priority 2,1
+close requested,1
+post-vs2017-migration,1
+import,1
+projections,1
+plots,1
+layers,1
+no-compat,1
+data preparation,1
+nonissue,1
+priority critical,1
+0.0.1,1
+0.0.2,1
+bash,1
+stt,1
+reset,1
+wifi,1
+media discovery,1
+play audio,1
+action,1
+needs pr,1
+hardcore,1
+to-discuss,1
+information,1
+testing/ci,1
+needs-more-info,1
+ready to work on,1
+c: 1,1
+c: 2,1
+c: 3,1
+pre_v2.0.0,1
+bug report,1
+module,1
+ready for release,1
+immediate,1
+easy_to_fix,1
+needunittest,1
+mergeconflicts,1
+prioritized,1
+discovery,1
+fix in dev branch,1
+code review pending,1
+waiting for info,1
+contribution needed,1
+difficulty: hard,1
+smart-speaker,1
+need-review,1
+need server side,1
+webimage,1
+dependency update,1
+github-review-accepted,1
+needs-contributor,1
+error,1
+user_validation,1
+easy first issue,1
+contributions wanted,1
+vim,1
+backend:simulator,1
+started,1
+community feedback requested,1
+status: awaiting response,1
+status: completed,1
+status: duplicate,1
+known issue,1
+status: on hold,1
+status: won't fix,1
+status: backlog,1
+thirdparties,1
+maltego,1
+medium difficult,1
+specification,1
+normal priority,1
+involved,1
+from-redmine,1
+effect-text,1
+media,1
+flavour,1
+pokemon,1
+encounters,1
+moves,1
+prohibitive,1
+lookup,1
+qol,1
+project configuration,1
+needs work,1
+elb,1
+available-in-boto3,1
+needs-tests,1
+mturk,1
+route53,1
+iam,1
+pending-verification,1
+cloudfront,1
+regenerate,1
+cloudformation,1
+emr,1
+sqs,1
+route53domains,1
+glacier,1
+opsworks,1
+platform:mac,1
+redshift,1
+vpc,1
+waiting for comments,1
+sns,1
+compat,1
+kinesis,1
+ses,1
+rds,1
+no action taken,1
+elasticbeanstalk,1
+swf,1
+fps,1
+changes public interface,1
+needs-repro,1
+ec2,1
+cloudsearch,1
+dynamodb,1
+alpha demo,1
+dictionaries,1
+sub-project,1
+in developing,1
+ingest,1
+query-explorer,1
+attributes,1
+ready_to_merge,1
+text-annotation,1
+lowpriority,1
+segmentation,1
+polygon,1
+pending_work,1
+workflow-experience,1
+annotation-experience,1
+user-request,1
+admin experience,1
+front-end,1
+frontend-ui,1
+super-admin-maintenance,1
+blob-storage-layer,1
+database_changes,1
+not-started,1
+reporting,1
+next-version-target,1
+good issue for junior contributor,1
+endpoints,1
+cloudwatch,1
+simpledb,1
+official clients,1
+unicode,1
+input.gdal,1
+input.shape,1
+svg,1
+resolved?,1
+input.csv,1
+viewer,1
+waiting for user,1
+tutorials,1
+component | appleseed.studio,1
+component | appleseed.python,1
+component | appleseed.shaders,1
+feature | osl,1
+pr | squash,1
+on hold 🔶,1
+feature | python console,1
+poll,1
+spawners,1
+physics,1
+materials,1
+blueprint api,1
+data items,1
+graphs,1
+importers,1
+cubic,1
+physx,1
+biome,1
+planet,1
+input.geojson,1
+input.raster,1
+modification,1
+symbolizers,1
+partially resolved,1
+quality,1
+reporter,1
+needs design discussion,1
+antipattern,1
+multi contributors,1
+ircbot,1
+models,1
+fixed-in-nmigen,1
+reinstallation,1
+jvm,1
+xorg,1
+waiting-for-info,1
+imp/exp,1
+national,1
+theme,1
+solution found,1
+channel:rail,1
+fixed-waiting-test,1
+channel:usb,1
+kerberos,1
+channel-smartcard,1
+channel:tsmf,1
+alreadyimplemented,1
+notabug,1
+disk,1
+hw docs needed,1
+art,1
+empyrean,1
+(2) in progress,1
+wish list,1
+flare-engine-next-import,1
+backend cpu,1
+randomx,1
+currency,1
+outdated/wontfix,1
+backend nvidia,1
+backend amd,1
+uri,1
+sigdigger 0.3,1
+future sigdigger,1
+gl,1
+math,1
+tinderbox,1
+msw,1
+macosx,1
+will not implement,1
+text & fonts,1
+images & formats,1
+fixed?,1
+ra:keep-open,1
+ra:waiting-for-reply,1
+ra:auto-closed,1
+newcomer,1
+reporters,1
+===> .:[ help wanted ]:. <===,1
+pam,1
+themes,1
+emscripten,1
+show,1
+format,1
+applayer,1
+gl js parity,1
+product,1
+text rendering,1
+mapkit parity,1
+node.js,1
+telemetry,1
+runtime styling,1
+google maps parity,1
+navigation,1
+:cherries: cherry pick,1
+needs changelog,1
+gl-ios,1
+querying,1
+tangram parity,1
+beta blocker,1
+needs information,1
+request for comments,1
+cfds,1
+status: ready,1
+meta dex,1
+wontfix/3rdparty,1
+wontfix/feature,1
+feature/extension-support,1
+scene manager,1
+packing,1
+dxbc2glsl,1
+kfl,1
+ui / ux,1
+size-s,1
+difficulty/high,1
+options,1
+surround-plugin,1
+mode-visual-line,1
+wordwrap,1
+registers,1
+targets-plugin,1
+repeating,1
+known-sublime-text-issue,1
+sneak-plugin,1
+multiple-cursors-plugin,1
+mode-visual-block,1
+mouse,1
+indent-object-plugin,1
+mode-operator,1
+mode-visual,1
+op-paste,1
+text-objects,1
+op-change,1
+folding,1
+op-yank,1
+scrolling,1
+more-information-needed,1
+needs-reproduction,1
+area/numbers,1
+area/cldr,1
+area/messages,1
+area/dates,1
+difficulty/medium,1
+macros,1
+marks,1
+contributor-friendly,1
+mode-ex,1
+vuejs,1
+size-xl,1
+size-m,1
+size-l,1
+details-clarification,1
+integration with 3rd-party,1
+increased-project-scope,1
+bug: minor,1
+waiting for a pr,1
+circus-web,1
+contributor friendly,1
+oauth2-client,1
+oauth2-provider,1
+oauth1,1
+oidc,1
+cosmetics,1
+keyrings,1
+user-callback,1
+encfs,1
+notifications,1
+crisis,1
+xpu/gpu,1
+igpu,1
+in process,1
+jumps,1
+unimpaired-plugin,1
+mappings,1
+area-input,1
+area-prospective,1
+area-assimp,1
+lang-powershell,1
+feature:proxies,1
+feature:byob,1
+feature:graphextensions,1
+functions-v2-postga,1
+feature:application-insights,1
+swimlane:languages,1
+swimlane:monitoring,1
+swimlane:dotnet-dev-experience,1
+feature: configuration,1
+reliability,1
+portal-dependency,1
+cli-dependency,1
+scale controller,1
+func-stack: python,1
+vulkan,1
+rc:should-have,1
+lang-java,1
+lang-go,1
+lang-php,1
+lang-c#,1
+rc:must-have,1
+high-pri,1
+richbindings,1
+vehicles,1
+importing,1
+radio,1
+weapons,1
+needs: triage :mag:,1
+lang-typescript,1
+lang-js,1
+key-management,1
+out-of-proc,1
+dotnet-pri0,1
+missing-api-bindings,1
+dotnet-pri1,1
+estimate-1h,1
+estimate-2d,1
+estimate-4h,1
+estimate-1d,1
+mac catalyst,1
+estimate-2w,1
+estimate-6w,1
+estimate-3d,1
+estimate-1w,1
+binding-projects,1
+estimate-8w,1
+:beetle:  bug,1
+:hand:  up for grabs,1
+:arrow_double_up:  enhancement,1
+needs: triage (functions),1
+4.0,1
+needs: author feedback,1
+feature:language-extensibility,1
+needs: attention :wave:,1
+logging and metrics,1
+auto-upgrade,1
+placeholderpools,1
+httpworker,1
+supportability,1
+durable-functions,1
+size:medium,1
+size:small,1
+aspect/syntax,1
+aspect/concurrency,1
+junkyard,1
+correctness,1
+killer-app,1
+aspect/exceptions,1
+quick-win,1
+aspect/aws,1
+aspect/packaging,1
+aspect/documentation,1
+aspect/modules,1
+release-v1.1,1
+swift,1
+firmware-porting,1
+pipe dream,1
+blocks release,1
+released,1
+proposed-implementation,1
+feedback-needed,1
+merged-to-branch,1
+c++11,1
+imlib2,1
+can't reproduce,1
+wasm spec,1
+normal,1
+libgit2,1
+struct-api,1
+clip-space,1
+aspect/threads,1
+wait-real-use-cases,1
+size:unknown,1
+priority-for-users,1
+size:large,1
+rc-must-have,1
+rc-nice-to-have,1
+ui issue,1
+new option required,1
+new customfile required,1
+bug: missing functionality,1
+bug: xml,1
+response pending,1
+bug: c#,1
+bug: html/css/javascript/xsl/xslt,1
+errata/clarification required,1
+bug: linux/mono,1
+kill code,1
+life modules,1
+area-scaffolding,1
+customer-reported,1
+type-enhancement,1
+fixed & testing,1
+faq,1
+aspect/ux,1
+aspect/ui,1
+think,1
+aspect/data-manipulation,1
+openhack2022,1
+low-level,1
+completeness,1
+dotnet-pri3,1
+dotnet-pri2,1
+dotnet-external-dependency,1
+module-zero-core-template,1
+aspnetboilerplate-templates,1
+8.x,1
+7.x,1
+backport 8.0,1
+backport 8.1,1
+backport 8.2,1
+backport 8.3,1
+backport 8.4,1
+backport 8.5,1
+v8.0.0-rc.2,1
+v7.17.5,1
+v7.17.0,1
+backport 7.17,1
+v7.15.0,1
+backport main,1
+v7.14.0,1
+api suggestion,1
+helpers,1
+v7.12.0,1
+v6.8.7,1
+v7.10.1,1
+v7.10.0,1
+v7.9.0,1
+v7.9.0-alpha1,1
+self reviewed,1
+waiting on stability,1
+v7.7.1,1
+pull request candidate,1
+area: language,1
+pr pending,1
+status: deferred,1
+npm-integration,1
+by-design,1
+templates,1
+intellisense,1
+typescript,1
+fun-size,1
+needs-collaboration,1
+breaking-changes,1
+pre-discussed,1
+deployed,1
+under assessment,1
+for grabs,1
+efcore,1
+follow up,1
+feature/netcore,1
+investigated,1
+support in webapi,1
+restier,1
+needs-porting,1
+major release opportunity,1
+follow-up,1
+milestone investigation,1
+odata lib,1
+docs-needed,1
+binskim-vnext,1
+non-win-compiler,1
+area: editor,1
+backport 6.x,1
+v7.7.0,1
+nnyeah,1
+v2.5.2,1
+code-gen,1
+v2.5.0,1
+v5.0.0-rc4,1
+v5.0.0,1
+v5.0.0-rc2,1
+v6.0.0-alpha1,1
+v5.0.0-rc1,1
+v2.4.6,1
+v2.4.4,1
+v2.4.2,1
+v2.4.0,1
+v2.3.3,1
+v5.0.0-alpha2,1
+v5.0.0-alpha1,1
+v2.2.0,1
+v2.1.1,1
+v2.1.0,1
+v2.0.0-alpha2,1
+vote,1
+backport 1.x,1
+v2.0.0-alpha1,1
+v1.7.2,1
+mobcat,1
+msbuild,1
+dotnet,1
+request-for-comments,1
+only-dotnet,1
+v5.0.1,1
+backport 2.x,1
+v6.8.6,1
+v5.4.0,1
+v7.6.2,1
+v7.6.1,1
+v6.8.4,1
+v7.6.0,1
+v7.5.0,1
+v7.4.1,1
+v7.4.0,1
+v8.0.0,1
+v6.8.3,1
+v7.3.1,1
+v7.3.0,1
+v7.2.1,1
+v7.2.0,1
+v6.8.2,1
+v7.1.0,1
+v7.0.0-rc1,1
+v7.0.0-beta1,1
+v6.8.1,1
+v6.6.0,1
+v5.6.7,1
+backport 5.x,1
+v5.6.4,1
+v6.3.1,1
+v5.6.3,1
+v5.6.2,1
+v6.1.1,1
+v6.0.0-rc1,1
+major-update,1
+electron,1
+area-openxr,1
+internal-log,1
+webservice-target,1
+nlog-configuration,1
+file-target,1
+file-archiving,1
+platform support,1
+database-target,1
+console-target,1
+could have,1
+needs documention on nlog-project.org/config,1
+xsd change,1
+build-config,1
+csv-layout,1
+xml-layout,1
+event-log-target,1
+curses,1
+news post,1
+ledger,1
+network-policy,1
+house-keeping,1
+vm,1
+rpc,1
+feature:syntax,1
+feature:has-workaround,1
+db:oracle,1
+area-isupportadditionalfeatures,1
+db:sql-server,1
+investigation-needed,1
+tool:dotnet-fm,1
+breaking behavior change,1
+documentation done,1
+needs documentation on wiki,1
+json / json-layout,1
+gpio,1
+usb,1
+usb-duplicate-devices,1
+nut protocols,1
+apc,1
+need testing,1
+ready / gonna merge,1
+powercom,1
+qx protocol driver,1
+ready / code review,1
+phoenixtec (usb 0x06da/0xffff),1
+powerwalker,1
+ippon,1
+cyberpower (cps),1
+usb-hid encoding/logmin/logmax,1
+hcl,1
+eaton,1
+outdated-ci,1
+modbus,1
+libbpf-1.0,1
+to_review,1
+renderer,1
+in progress 🚧,1
+upforgrabs,1
+more-design-required,1
+mail-target,1
+network/nlogviewer-target,1
+area-codegeneratorfriendliness,1
+db:mysql,1
+area-versioninfo,1
+question / support,1
+depth,1
+impact-low,1
+live-trading,1
+impact-high,1
+indicator,1
+brokerage,1
+consistency,1
+order-types,1
+activemq,1
+amazon sqs/sns,1
+rabbitmq,1
+saga state machine,1
+courier,1
+azure service bus,1
+taken,1
+area-opengl,1
+area-silktouch,1
+tenet-usability,1
+area-directx/windows,1
+area-meta,1
+tracking issue / epic,1
+area-maths,1
+area-resharper/rider,1
+area-core/buildtools,1
+area-documentation,1
+area-vulkan,1
+area-windowing,1
+pr: needs +2,1
+asset browser,1
+area-previewscript,1
+os: macos x,1
+area-rollback,1
+area-scriptdelimeter,1
+db:postgres,1
+db:db2,1
+awaiting-answer,1
+tool:dotnet-console,1
+db:sqlite,1
+complexity:low,1
+db:firebird,1
+feature:idempotent-migrations,1
+facetednav,1
+missing-steps-to-reproduce,1
+unplanned,1
+utility,1
+polish,1
+dune 2000,1
+dedicated,1
+map editor,1
+red alert,1
+tiberian sun,1
+artwork,1
+limitation,1
+mod support,1
+idea/wishlist,1
+balancing,1
+pathfinding,1
+tiberian dawn,1
+service/daemon start/stop,1
+bug/fix,1
+os:macos,1
+plugin/geanyvc,1
+plugin/pairtaghighlighter,1
+plugin/autoclose,1
+review needed,1
+plugin/projectorganizer,1
+plugin/workbench,1
+pending-core-update,1
+plugin/spellcheck,1
+plugin/lineoperations,1
+plugin/tableconvert,1
+plugin/addons,1
+plugin/treebrowser,1
+plugin/commander,1
+plugin/geanyextrasel,1
+plugin/markdown,1
+plugin/geanydoc,1
+plugin/git-changebar,1
+plugin/debugger,1
+pending fixes,1
+protocol/openvpn,1
+os/linux,1
+enterprise environment,1
+os/windows,1
+protocol/wireguard,1
+build & release,1
+vulnerability,1
+pull request available,1
+close candidate,1
+new-plugin,1
+collab,1
+os/bsd,1
+stroke,1
+data safety,1
+best practices,1
+fix committed / please test,1
+upstream/fuse,1
+feature parity,1
+review documentation,1
+libfuse/kernel,1
+4.2.0,1
+4.0.4,1
+3.5.x,1
+post-release,1
+planned-5.1,1
+bite-sized,1
+maybe-done,1
+i-cleanup,1
+workaround-available,1
+f-compliance,1
+f-ufo,1
+cid,1
+i-bug,1
+i-crash,1
+i-completion,1
+f-woff,1
+web preview,1
+clarifying,1
+f-svg,1
+metabug,1
+protocol/l2tp,1
+solaris only,1
+os:linux,1
+platform_specific,1
+waiting info,1
+pr-open,1
+improvement/addition,1
+lowprio,1
+moreinfo,1
+software,1
+port to 7.0,1
+muc,1
+mam,1
+pgp,1
+external-contributor,1
+omemo,1
+ox,1
+unfunded,1
+premature-close,1
+depends-on-libstrophe,1
+otr,1
+topic-compiling,1
+testers wanted,1
+msf6,1
+posix,1
+subject:patching,1
+subject:gui,1
+subject:core,1
+subject:code-cleanup,1
+subject:api,1
+subject:libpd,1
+cd support,1
+obsolete,1
+unlisted change,1
+beginner-friendly,1
+pending feedback,1
+bsd only,1
+linux only,1
+pending contributor action,1
+waiting for response - 1st time,1
+aix only,1
+new plugin,1
+waiting for response - 2nd time,1
+portability/android,1
+languages/pronunciation,1
+legacy:espeak,1
+resolved/fixed,1
+voices,1
+symbols,1
+op-tee,1
+release management,1
+functionality,1
+sgx,1
+libc,1
+interfaces,1
+rotator,1
+virtual patching,1
+abi breaking,1
+v1.4,1
+git compatibility,1
+perfomance issues,1
+mallctl,1
+zreleased - 2016.3.3,1
